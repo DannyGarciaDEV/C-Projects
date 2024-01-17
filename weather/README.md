@@ -17,9 +17,10 @@ Follow the steps below to compile and run the Weather App:
    ```bash
    git clone https://github.com/yourusername/weather.git
    cd weather
-   
+
+    ```bash
 2. gcc -o weather weather.c -lcurl
-./weather
+   ./weather
 
 
 Enter city: boston
