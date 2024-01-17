@@ -18,7 +18,7 @@ Follow the steps below to compile and run the Weather App:
    git clone https://github.com/yourusername/weather.git
    cd weather
 ```
-    ```
+   
 2. gcc -o weather weather.c -lcurl
    ./weather
 ```
